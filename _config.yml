@@ -16,7 +16,7 @@ timezone: Africa/Cairo
 
 title: Ashraf Harb # the main title
 
-tagline: A Security Researcher # it will display as the sub-title
+tagline: A Security Researcher and Penetration Tester  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -43,6 +43,8 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/ashraf-harb
+    - https://hackerone.com/qotoz
+    - https://bugcrowd.com/qotoz
 
 # Site Verification Settings
 webmaster_verifications:
@@ -59,7 +61,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-5WKQQY30ED # fill in your Google Analytics ID
+    id: # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:

@@ -23,6 +23,20 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/ashraf-harb'                  # Fill with your Linkedin homepage
 #
+- type: Hackerone
+  icon: 'fa-brands fa-hackerrank'   # icons powered by <https://fontawesome.com/>
+  url:  'https://hackerone.com/qotoz'       
+
+
+- type: Bugcrowd
+  icon: 'fa-solid fa-b'   # icons powered by <https://fontawesome.com/>
+  url:  'https://bugcrowd.com/qotoz'       
+
+- type: Medium
+  icon: 'fa-brands fa-medium'   # icons powered by <https://fontawesome.com/>
+  url:  'https://qotoz.medium.com/'      
+      
+
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage

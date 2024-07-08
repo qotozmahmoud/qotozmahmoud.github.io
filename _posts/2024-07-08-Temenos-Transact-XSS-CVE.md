@@ -1,6 +1,6 @@
 ---
 title: Temenos Transact Vulnerable to Reflected XSS (CVE-2022-38322) 
-date: 2024-06-28 00:00:00 +0000
+date: 2024-07-08 00:00:00 +0000
 categories: [CVE, XSS]
 tags: [XSS,Temenos T24, Temenos Transact]    
 description: Disclosing CVE-2022-38322 Multiple Reflected XSS Issues within Temenos Transact. 
