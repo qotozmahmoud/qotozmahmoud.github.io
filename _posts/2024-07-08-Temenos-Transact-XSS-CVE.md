@@ -158,37 +158,13 @@ http.title:"t24 sign in"
 tttt
 
 ```
-http.title:"transact sign in"
-
-http.title:"t24 sign in"
+http.title:"transact sign in","t24 sign in"
 ```
 
 ### Through Google:
 
 ```
-inurl:"servlet/BrowserServlet"
-```
-
-or 
-
-```
-intitle:"t24 sign in"
-```
-
-or 
-
-```
-intitle:"transact sign in"
-```
-
-tttt
-
-```
-inurl:"servlet/BrowserServlet"
-
-intitle:"t24 sign in"
-
-intitle:"transact sign in"
+inurl:"servlet/BrowserServlet" | intitle:"t24 sign in" | intitle:"transact sign in"
 ```
 
 
