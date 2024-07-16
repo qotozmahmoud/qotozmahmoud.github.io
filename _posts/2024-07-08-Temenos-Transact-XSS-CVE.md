@@ -22,7 +22,7 @@ Temenos Transact, previously known as T24, is a core banking software platform d
 
 ## List of Temenos Clients
 
-To search for potential Temenos clients by country or organization name, please refer to the [Unoficial Temenos Customers list](https://t24cc.com/posts/2020-06-05-Temenos-Customers-curated-list.html), as shown in the following screenshot.
+To search for potential Temenos clients by country or organization name, please refer to the [Unoficial Temenos Customers list](https://t24cc.com/posts/2020-06-05-Temenos-Customers-curated-list.html), as you can see in the following screenshot I filtered Temenos Clients in Egypt.
 
 ![img-description](/temenos clients.jpeg)
 _Temenos Clients In Egypt_
