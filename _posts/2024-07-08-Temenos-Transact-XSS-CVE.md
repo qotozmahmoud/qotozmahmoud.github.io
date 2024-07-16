@@ -147,17 +147,6 @@ In most cases Temenos Transact is an internal application that can't be accessed
 ### Through Shodan: 
 
 ```
-http.title:"transact sign in"
-```
-or 
-
-```
-http.title:"t24 sign in"
-```
-
-tttt
-
-```
 http.title:"transact sign in","t24 sign in"
 ```
 
